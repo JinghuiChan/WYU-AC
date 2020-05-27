@@ -22,4 +22,4 @@
 |  pytorch  |  pytorch-1.5.0-py3.7_cuda10.2.89_cudnn7.6.5_0  |  [pytorch下载地址](https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/linux-64/) | [安装方法](https://www.e-learn.cn/content/qita/575933) |
 |  IPTool   |     1.8.3      |  [下载地址](https://pan.baidu.com/s/156WhwhPbHOntOlE4mhw3dw) | 提取码：o2qb |
 |  opencv   |     4.2.0      |  [下载地址](https://pan.baidu.com/s/1ZBjnLd47I_GbeuJq3r0bxw) | 提取码：2k5t |
-|  安装命令  |    ------      |  [下载地址](https://pan.baidu.com/s/1mppqLAhdwrHavpRDu8oH5Q) | 提取码：8fjt |
+|  安装命令  |    ------      |  [下载地址](https://pan.baidu.com/s/10c4B_QPwlN941-WfO2ZPfQ) | 提取码：ci16 以上软件的安装命令 |
