@@ -1,0 +1,37 @@
+2020-05-21 13:00:01 DEBUG [16027 ../SDKDemo_linux/project/source/SDKDemo.cpp 219] 
+
+Application start!
+
+
+2020-05-21 13:00:01 INFO  [16027 ../SDKDemo_linux/project/source/SDKDemo.cpp 220] IP range: 192.168.0.114 -- 114
+
+2020-05-21 13:00:01 DEBUG [16027 ../SDKDemo_linux/project/source/tvtcamera.cpp 190] camera_thread
+2020-05-21 13:00:03 DEBUG [16027 ../SDKDemo_linux/project/source/SDKDemo.cpp 417] result.txt not found. Python program error. Reset all register in modbus.
+2020-05-21 13:00:23 DEBUG [16027 ../SDKDemo_linux/project/source/SDKDemo.cpp 417] result.txt not found. Python program error. Reset all register in modbus.
+2020-05-21 13:00:43 DEBUG [16027 ../SDKDemo_linux/project/source/SDKDemo.cpp 417] result.txt not found. Python program error. Reset all register in modbus.
+2020-05-21 13:01:04 DEBUG [16027 ../SDKDemo_linux/project/source/SDKDemo.cpp 417] result.txt not found. Python program error. Reset all register in modbus.
+2020-05-21 13:01:23 DEBUG [16027 ../SDKDemo_linux/project/source/SDKDemo.cpp 417] result.txt not found. Python program error. Reset all register in modbus.
+2020-05-21 13:38:30 DEBUG [13802 ../SDKDemo_linux/project/source/SDKDemo.cpp 219] 
+
+Application start!
+
+
+2020-05-21 13:38:30 INFO  [13802 ../SDKDemo_linux/project/source/SDKDemo.cpp 220] IP range: 192.168.0.114 -- 114
+
+2020-05-21 13:38:30 DEBUG [13802 ../SDKDemo_linux/project/source/tvtcamera.cpp 190] camera_thread
+2020-05-22 18:37:49 DEBUG [25659 project/source/SDKDemo.cpp 219] 
+
+Application start!
+
+
+2020-05-22 18:37:49 INFO  [25659 project/source/SDKDemo.cpp 220] IP range: 192.168.0.170 -- 189
+
+2020-05-22 18:37:49 DEBUG [25659 project/source/tvtcamera.cpp 190] camera_thread
+2020-05-22 18:39:49 DEBUG [25731 project/source/SDKDemo.cpp 219] 
+
+Application start!
+
+
+2020-05-22 18:39:49 INFO  [25731 project/source/SDKDemo.cpp 220] IP range: 192.168.0.170 -- 189
+
+2020-05-22 18:39:49 DEBUG [25731 project/source/tvtcamera.cpp 190] camera_thread
